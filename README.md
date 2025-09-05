@@ -25,7 +25,7 @@ This portfolio is built with **HTML, CSS, and a little bit of creative design ma
 
 ---
 
-## 🛠Tech Stack  
+## Tech Stack  
 - **HTML5** – Structure  
 - **CSS3** – Styling and animations  
 - **Responsive Design** – Works on desktop & mobile  
@@ -51,4 +51,5 @@ This portfolio is built with **HTML, CSS, and a little bit of creative design ma
 
 
  
+
 
