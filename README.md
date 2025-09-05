@@ -1,10 +1,10 @@
   A personal portfolio website showcasing my projects, skills, and experience.  
-This portfolio is built with **HTML, CSS, and a little bit of creative design magic ✨**.  
+This portfolio is built with **HTML, CSS, and a little bit of creative design magic**.  
 
 ---
 
-## 🚀 Live Demo  
-👉 [View Portfolio](https://tanzirrabby.github.io/assignment01/)  
+## Live Demo  
+[View Portfolio](https://tanzirrabby.github.io/assignment01/)  
 
 ---
 
@@ -14,18 +14,18 @@ This portfolio is built with **HTML, CSS, and a little bit of creative design ma
 
 ---
 
-## 📂 Features  
-- 🔝 Fixed navigation bar for smooth navigation  
-- 🎨 Animated background and gradient effects  
-- 👤 About Me section with personal details  
-- 💻 Skills section with progress bars  
-- 📂 Projects section with project cards and hover effects  
-- 🏆 Experience section for achievements and internships  
-- 📬 Contact section with email, GitHub, and LinkedIn  
+##  Features  
+- Fixed navigation bar for smooth navigation  
+- Animated background and gradient effects  
+- About Me section with personal details  
+- Skills section with progress bars  
+- Projects section with project cards and hover effects  
+- Experience section for achievements and internships  
+- Contact section with email, GitHub, and LinkedIn  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠Tech Stack  
 - **HTML5** – Structure  
 - **CSS3** – Styling and animations  
 - **Responsive Design** – Works on desktop & mobile  
@@ -34,20 +34,21 @@ This portfolio is built with **HTML, CSS, and a little bit of creative design ma
 
 ---
 
-## 📌 Projects Highlighted  
-1. 🌊 Flood Aid – Real-time flood information app  
-2. 🚌 Bus Tracker – Live location for university transport  
-3. 🎬 Netflix Clone – Movie browsing UI  
+##  Projects Highlighted  
+1.  Flood Aid – Real-time flood information app  
+2.  Bus Tracker – Live location for university transport  
+3.  Netflix Clone – Movie browsing UI  
 
 ---
 
-## 📬 Contact  
+##  Contact  
 - Email: [tanzirrabby34383@gmail.com](mailto:tanzirrabby34383@gmail.com)  
 
 ---
 
-### 📜 License  
+###  License  
 © 2025 MD. Tanzir Hossain.
 
 
-## 📂 File Structure  
+ 
+
