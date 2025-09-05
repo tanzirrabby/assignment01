@@ -1,0 +1,174 @@
+/*global*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #111;
+    color:#279e4f;
+    margin:0;
+    padding:0;
+}
+/*navbar*/
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background: #2f3437;
+    position: sticky;
+    top:0;
+    z-index:1000;
+}
+.navbar .logo{
+    font-size:1.5rem;
+    font-weight: bold;
+    color:#708a5c;
+}
+.navbar .nav-links{
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+}
+.navbar .nav-links li a{
+    color:#bfb0b0;
+    text-decoration: none;
+    font-size:1rem;
+    transition: color 0.3s ease;
+}
+.navbar .nav-links li a:hover{
+    color:#ff8a00;
+}
+
+/*hero*/
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    flex-direction: column;
+}
+
+.hero p{
+    font-size: 1.2 rem;
+    margin : 0.5rem 0;
+}
+
+.profile-pic{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    object-fit:cover;
+    border: 3px solid #1a2f4f;
+    margin-bottom:1rem;
+}
+.hero h1{
+    font-size:2rem;
+    color: #ff8a00;
+}
+
+.hero p{
+    font-size: 1.2rem;
+    margin: 0.5rem 0;
+}
+
+.btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background: #948675;
+    color: #fff;
+    border-radius:5px;
+    text-decoration: none;
+    transition:transform 0.3s ease;
+}
+
+.btn:hover{
+    transform: scale(1.05);
+}
+
+/*skills */
+.skills{
+    padding: 2rem 1rem;
+
+}
+.skill{
+    margin-bottom: 1rem;
+}
+
+.bar{
+    background: rgba(255, 255, 255, 0.2);
+    height:15px;
+    border-radius:10px;
+    overflow:hidden;
+}
+
+.bar span{
+    display: block;
+    height: 100%;
+    width:70%;
+    background: #ff8a00;
+    
+}
+
+.projects{
+    padding:4rem 1rem;
+    background: #1a1a1a;
+    text-align:center;
+}
+
+.projects h2{
+    font-size: 2rem;
+    color: #ff8a00;
+    margin-bottom:2rem;
+}
+.projects-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    max-width:1200px;
+    margin: 0 auto;
+}
+.project-card{
+    background: rgba(255, 255, 255, 0.1);
+    padding:1rem;
+    border-radius:10px;
+    text-align:center;
+    transition: transform 0.3s ease, box-shawdow 0.3s ease;
+    cursor:pointer;
+}
+
+.project-card :hover{
+    transform: translateY(-10PX) scale(1.05);
+    box-shadow: 0 10px 20px rgba(255,138,0,0.3);
+   
+}
+
+.project-card img{
+    width:50%;
+    border-radius:10px;
+    margin-bottom:1rem;
+    transition: transform 0.3s ease;
+}
+
+.project-card :hover{
+    transform: scale(1.08);
+}
+
+.project-card h3{
+    font-size:1.2rem;
+    margin:0.5rem 0;
+    color:#ff8a00;
+}
+
+.project-card{
+    font-size:0.95rem;
+    color:#ccc;
+    margin-bottom:1rem;
+}
+
+.footer{
+    text-align:center;
+    padding:1rem;
+    background: #111;
+    color:#777;
+    font-size:0.9rem;
+    border-top:1px solid #222;
+}
